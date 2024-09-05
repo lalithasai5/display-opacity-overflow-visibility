@@ -1,0 +1,104 @@
+#tom {
+    background-color: blue;
+    color: black;
+    display: block;
+}
+#jerry {
+    background-color:brown;
+    color: black;
+    display: block;
+}
+#bdragon {
+    background-color: blue;
+    color: white;
+    display: block;
+}
+#pdragon{
+    background-color: palevioletred;
+    color: deeppink;
+    display:block;
+}
+#p1{
+    width: 300px;
+    text-align: center;
+    color: red;
+    background-color: blue;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px deeppink;
+    display: inline-block;
+    height: 150px;
+    overflow:auto;
+}
+#p3 {
+    width: 300px;
+    text-align: center;
+    color: red;
+    background-color: blue;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px deeppink;
+    display: inline-block;
+    height: 150px;
+    overflow:auto;
+}
+#p2 { 
+    width: 300px;
+    text-align: center;
+    color: red;
+    background-color:yellow;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px deeppink;
+    display: inline-block;
+    height: 150px;
+    overflow: auto;
+    opacity: 60%;
+}
+#p4 {
+    width: 300px;
+    text-align: center;
+    color: red;
+    background-color:yellow;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px deeppink;
+    display: inline-block;
+    height: 150px;
+    overflow: auto;
+}
+#h11{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px gold;
+}
+#h12{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-shadow: 10px 10px 10px black;
+    border-radius: 100px;
+    box-shadow: 10px 10px 10px gold;opacity: 0.7;
+}
+#tomImg {
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px 10px blue; 
+    visibility: hidden;
+}
+#jerryImg {
+    width: 200px;
+    height: 200px;
+    box-shadow:10px 10px 10px brown;
+    opacity: 0.5;
+}
+#bdragonImg {
+    width: 200px;
+    height: 200px;
+    box-shadow:10px 10px 10px blue;
+    display: none;
+}
+#pdragonImg {
+    width: 200px;
+    height: 200px;
+    box-shadow:10px 10px 10px palevioletred;
+}
